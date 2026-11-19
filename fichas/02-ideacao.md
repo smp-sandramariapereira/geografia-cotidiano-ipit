@@ -1,18 +1,48 @@
-# Ficha 2 — Ideação
+# Ficha 02 — Ideação
 
-**Aula:** 1 · **Tempo IPIT:** 20 minutos
+**Quando:** Aula 3 · **Carga horária da etapa:** 50 minutos · **Metodologia:** IPIT — Sandra Maria Pereira
 
-**Pergunta-guia:** Que três soluções são possíveis e por que uma foi priorizada?
+## Orientações ao professor
+**Conceitos:** Alternativas de intervenção, comparação de impactos e trade-offs.
 
-**Exemplo ilustrativo, não dado da turma:** um problema de mobilidade no entorno escolar representado por croqui; a equipe deverá validar suas próprias evidências.
+**Pergunta disparadora:** Quais três caminhos são possíveis para enfrentar o problema?
 
-## Registro da equipe
+**Exemplo-modelo fictício:** Exemplo: sinalização, rota alternativa, campanha de conscientização.
 
-- Equipe / data: ______
-- Resposta à pergunta-guia: ______
-- Observações e evidências: ______
-- Decisões e justificativas: ______
-- Dúvidas, limites e cuidados éticos: ______
-- Produto ou arquivo gerado: ______
-- Feedback do professor: ______
-- [ ] Evidência conferida
+**Atividade:** Propor três alternativas e selecionar uma com critérios explícitos.
+
+**Evidência e critério de conclusão:** Três ideias e uma escolha justificada.
+
+## Registro preenchível
+Equipe / data / aula: ____________________
+
+### Três alternativas
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Critérios de priorização
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Escolha e justificativa
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+
+## Acompanhamento docente
+- [ ] Entrega verificada e documentação adequada
+- [ ] Registro diferencia evidências de suposições
+- [ ] A equipe considera acessibilidade e privacidade
+- [ ] Houve devolutiva e oportunidade de revisão
+
+**Feedback do professor:** ______________________________________________
+
+**Próximo passo:** ______________________________________________________
+
+*Esta ficha oferece exemplos pedagógicos. Resultados, dados reais e notas devem ser preenchidos somente após a atividade.*
