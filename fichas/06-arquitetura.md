@@ -1,18 +1,48 @@
-# Ficha 6 — Arquitetura
+# Ficha 06 — Arquitetura
 
-**Aula:** 2 · **Tempo IPIT:** 20 minutos
+**Quando:** Aula 7 · **Carga horária da etapa:** 50 minutos · **Metodologia:** IPIT — Sandra Maria Pereira
 
-**Pergunta-guia:** Quais tarefas, papéis, materiais e sequência de produção?
+## Orientações ao professor
+**Conceitos:** Etapas de produção, responsabilidade e circulação de evidências.
 
-**Exemplo ilustrativo, não dado da turma:** um problema de mobilidade no entorno escolar representado por croqui; a equipe deverá validar suas próprias evidências.
+**Pergunta disparadora:** Quem fará o quê e em qual sequência?
 
-## Registro da equipe
+**Exemplo-modelo fictício:** Pessoa A desenha, B verifica legenda, C apresenta; todos revisam.
 
-- Equipe / data: ______
-- Resposta à pergunta-guia: ______
-- Observações e evidências: ______
-- Decisões e justificativas: ______
-- Dúvidas, limites e cuidados éticos: ______
-- Produto ou arquivo gerado: ______
-- Feedback do professor: ______
-- [ ] Evidência conferida
+**Atividade:** Organizar plano de trabalho e revisão cruzada.
+
+**Evidência e critério de conclusão:** Checklist de tarefas e responsabilidades.
+
+## Registro preenchível
+Equipe / data / aula: ____________________
+
+### Funções e responsabilidades
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Tarefas e sequência
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Feedback recebido e revisão planejada
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+
+## Acompanhamento docente
+- [ ] Entrega verificada e documentação adequada
+- [ ] Registro diferencia evidências de suposições
+- [ ] A equipe considera acessibilidade e privacidade
+- [ ] Houve devolutiva e oportunidade de revisão
+
+**Feedback do professor:** ______________________________________________
+
+**Próximo passo:** ______________________________________________________
+
+*Esta ficha oferece exemplos pedagógicos. Resultados, dados reais e notas devem ser preenchidos somente após a atividade.*
