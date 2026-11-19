@@ -1,18 +1,48 @@
-# Ficha 4 — Tecnologia
+# Ficha 04 — Tecnologia
 
-**Aula:** 2 · **Tempo IPIT:** 10 minutos
+**Quando:** Aula 5 · **Carga horária da etapa:** 50 minutos · **Metodologia:** IPIT — Sandra Maria Pereira
 
-**Pergunta-guia:** Qual suporte acessível e seguro permite comunicar a solução?
+## Orientações ao professor
+**Conceitos:** Seleção de ferramentas segundo acesso, propósito e acessibilidade.
 
-**Exemplo ilustrativo, não dado da turma:** um problema de mobilidade no entorno escolar representado por croqui; a equipe deverá validar suas próprias evidências.
+**Pergunta disparadora:** O papel é suficiente? Um recurso digital agregaria clareza?
 
-## Registro da equipe
+**Exemplo-modelo fictício:** Cartaz manuscrito ou editor de apresentação offline.
 
-- Equipe / data: ______
-- Resposta à pergunta-guia: ______
-- Observações e evidências: ______
-- Decisões e justificativas: ______
-- Dúvidas, limites e cuidados éticos: ______
-- Produto ou arquivo gerado: ______
-- Feedback do professor: ______
-- [ ] Evidência conferida
+**Atividade:** Escolher suportes e justificar custo, acessibilidade e proteção de dados.
+
+**Evidência e critério de conclusão:** Recursos escolhidos e justificativa.
+
+## Registro preenchível
+Equipe / data / aula: ____________________
+
+### Ferramentas e materiais
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Justificativa e alternativa offline
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Cuidados de privacidade e acessibilidade
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+
+## Acompanhamento docente
+- [ ] Entrega verificada e documentação adequada
+- [ ] Registro diferencia evidências de suposições
+- [ ] A equipe considera acessibilidade e privacidade
+- [ ] Houve devolutiva e oportunidade de revisão
+
+**Feedback do professor:** ______________________________________________
+
+**Próximo passo:** ______________________________________________________
+
+*Esta ficha oferece exemplos pedagógicos. Resultados, dados reais e notas devem ser preenchidos somente após a atividade.*
