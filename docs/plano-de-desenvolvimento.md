@@ -1,64 +1,82 @@
-# Plano de desenvolvimento pedagógico — Geografia no Cotidiano + IPIT
+# Plano de desenvolvimento — Geografia no Cotidiano + IPIT (10 aulas)
 
-**Carga horária:** 150 minutos, três aulas de 50 minutos (tempo-aula, não 3 horas-relógio). **Público-alvo:** Ensino Médio (sugestão). **Nível:** introdutório (sugestão). **Modalidade:** presencial, com alternativa offline. **Equipes:** 3 a 5 estudantes.
+## Identificação
+**Curso:** Geografia no Cotidiano — Meu território, minha proposta de transformação  
+**Público:** Ensino Médio (sugestão; adaptar às turmas).  
+**Nível:** introdutório. **Modalidade sugerida:** presencial com alternativa offline.  
+**Carga horária:** **10 aulas × 50 minutos = 500 minutos = 8h20** (horas-relógio).  
+**Grupo:** equipes de 3 a 5 estudantes, com papéis rotativos.  
+**Base:** resenha da coleção *Geografia no Cotidiano* no *Guia PNLD 2018 — Geografia*, pp. 50–54.
 
-## Fonte e limite documental
-A fonte disponibilizada é o *Guia PNLD 2018 — Geografia* (MEC, 2017), resenha da coleção *Geografia no Cotidiano* (pp. 50–54), de Dadá Martins, Francisco Bigotto e Márcio Vitiello (Base Editorial, 2016). Trata-se de **avaliação descritiva da coleção**, não do texto integral de um capítulo. O Guia destaca articulação local–global e sociedade–natureza; conceitos como paisagem, lugar, território, região, cartografia e sensoriamento remoto; seções de cartografia, síntese, interação e atividades interdisciplinares. A resenha também aponta que a ligação explícita com a experiência do estudante nem sempre ocorre e que alguns mapas demandam atenção à legibilidade. Todas as práticas abaixo são **adaptações pedagógicas**, não atividades transcritas da obra.
+## Fundamentação e atribuição
+O Guia PNLD 2018 descreve o trabalho com relações local–global e sociedade–natureza, conhecimentos prévios, cartografia, reflexão crítica, estudo do meio, interdisciplinaridade, síntese e avaliação qualitativa, contínua e cumulativa. Indica conteúdos do primeiro ano (paisagem, lugar, território, região e cartografia); segundo ano (formação territorial, sociedade–natureza, espaço urbano e redes); terceiro ano (questões mundiais e migrações). Aponta que a ligação com a vivência estudantil nem sempre é explícita e que alguns mapas precisam de complementação com atlas para boa legibilidade.
+
+**Distinção documental:** o PDF enviado é o **guia avaliativo da coleção**, não um capítulo integral; por isso, o currículo e as atividades seguintes são **propostas autorais de adaptação pedagógica** e não transcrição do livro.
 
 ## Justificativa
-Investigar o entorno aproxima os conceitos geográficos da experiência estudantil e fortalece observação, representação cartográfica e participação cidadã. O IPIT fornece uma trajetória de investigação e prototipagem adequada a um microprojeto.
+Uma sequência estendida permite investigar criticamente um problema do espaço vivido, comparar perspectivas, usar linguagem cartográfica e produzir comunicação visual responsável. A metodologia IPIT organiza evidências, decisões, prototipagem e reflexão sem exigir tecnologia cara.
 
 ## Objetivo geral
-Ler criticamente um problema do espaço vivido, documentar evidências e elaborar uma proposta de melhoria territorial comunicável e testável, respeitando diversidade e limitações de dados.
+Investigar problemas concretos de organização do espaço cotidiano utilizando conceitos e representações da Geografia, produzir, testar e comunicar uma proposta de transformação territorial sustentada por evidências e acompanhada de limitações explícitas.
 
 ## Objetivos específicos
-- Identificar paisagem, lugar e relações sociedade–natureza em situações concretas.
-- Diferenciar observação, relato, hipótese e inferência.
-- Elaborar croqui com título, legenda, referências espaciais e fontes.
-- Priorizar solução considerando pessoas afetadas, viabilidade, inclusão e segurança.
-- Produzir e testar um MVP de comunicação geográfica.
-- Argumentar sobre proposta, evidências, incertezas e aprendizados.
+- Explicar lugar, paisagem, território e espaço geográfico com exemplos locais.
+- Articular sociedade e natureza e escalas local e global.
+- Ler mapas e elaborar croqui com título, legenda, referência e fontes.
+- Distinguir evidência, relato, hipótese e inferência; reconhecer limites.
+- Criar e priorizar alternativas segundo impacto, inclusão e viabilidade.
+- Escolher tecnologias analógicas ou digitais justificadamente.
+- Planejar MVP, responsabilidades, teste de leitura e melhoria.
+- Apresentar argumentos geográficos e participar de avaliação formativa.
 
-## Conteúdos
-**Conceituais:** espaço geográfico, lugar, paisagem, território, relação sociedade–natureza, representação espacial, escala local. **Procedimentais:** croqui, levantamento de evidências, priorização, prototipação, apresentação e revisão. **Atitudinais:** escuta, colaboração, respeito ao espaço público, responsabilidade e ética.
+## Competências e conteúdos
+**Conceituais:** espaço geográfico, paisagem, lugar, território, sociedade–natureza, desigualdades de acesso, escalas espaciais e orientação cartográfica. **Procedimentais:** leitura de mapas, observação, croqui, levantamento de evidências, ideação, decisão, prototipagem, teste, pitch e documentação. **Atitudinais:** respeito à diversidade, cooperação, escuta, autoria, responsabilidade e cidadania.
 
-## Questão integradora
+## Problema integrador
 **Como utilizar a Geografia para reconhecer um problema do lugar onde vivemos e propor uma melhoria para a comunidade?**
 
-Exemplos **fictícios** de problemáticas: acesso à escola; acúmulo de resíduos; áreas sombreadas; deslocamento a pé; segurança da travessia. Os grupos selecionam seu problema com evidências reais, sem registrar nomes ou endereços privados.
+**MVP / produto final:** mapa/croqui diagnóstico com duas ou mais evidências e fonte, protótipo comunicacional de uma proposta de melhoria (cartaz, maquete de papel, apresentação ou mapa digital), teste com pares, revisão e pitch. O MVP não é a execução de uma obra ou política pública.
 
-## Produto
-Croqui diagnóstico anotado e protótipo mínimo de proposta de melhoria (cartaz, maquete em papel, storyboard ou apresentação offline), teste de compreensão entre grupos e pitch de até 2 minutos por equipe.
+## Percurso de 500 minutos
+| Encontro | Tema | Etapa IPIT | Minutos | Entrega |
+|---|---|---|---:|---|
+| 1 | A Geografia e o espaço vivido | Descoberta | 50 | Mapa mental com três situações espaciais e perguntas investigáveis. |
+| 2 | Paisagem, lugar e território: diagnóstico | Descoberta | 50 | Problema situado, croqui com legenda, duas evidências e limitações. |
+| 3 | Ideação: alternativas de transformação | Ideação | 50 | Três ideias comparadas e uma proposta selecionada. |
+| 4 | Solução: desenho geográfico e comunicação | Solução | 50 | Croqui antes/depois, roteiro de uso e público-alvo. |
+| 5 | Tecnologia: cartografia analógica e digital | Tecnologia | 50 | Protótipo cartográfico demonstrativo e ficha técnica. |
+| 6 | MVP: prototipar o indispensável | MVP | 50 | MVP inicial testável e lista de exclusões justificadas. |
+| 7 | Arquitetura: organizar o projeto | Arquitetura | 50 | Plano de execução, papéis, checklist e critérios de teste. |
+| 8 | Desenvolvimento: construir o produto | Desenvolvimento | 50 | Versão de trabalho do protótipo e diário. |
+| 9 | Desenvolvimento: testes e melhoria | Desenvolvimento e testes | 50 | MVP revisado com teste documentado e evidência de melhoria. |
+| 10 | Pitch e finalização: leitura crítica do território | Pitch e finalização | 50 | Pitch, rubrica preenchida por observação e portfólio. |
+| **Total** | | **8 etapas** | **500** | Portfólio completo |
 
-## Matriz de alinhamento fonte × IPIT
-| Etapa | Elemento documentado na resenha PNLD | Adaptação para a aula | Evidência |
-|---|---|---|---|
-| Descoberta | Conhecimentos prévios; leitura crítica do ambiente cotidiano | Observação e croqui de problema local | Problema e duas evidências |
-| Ideação | Debate, interdisciplinaridade, reflexão crítica | Três opções e priorização | Matriz de escolhas |
-| Solução | Mapas, imagens e atividades de síntese | Esboço antes/depois | Croqui/proposta |
-| Tecnologia | Seção Cartografando; linguagens diversificadas | Definição de suporte papel/digital | Justificativa de ferramenta |
-| MVP | Atividades práticas e estudo do meio | Protótipo mínimo testável | Escopo e teste |
-| Arquitetura | Organização da atividade em equipe | Papéis, materiais e fluxo | Plano de ação |
-| Desenvolvimento | Pesquisa, debate e ação local | Produzir e revisar artefato | Protótipo e feedback |
-| Pitch | Síntese e compreensão, interdisciplinaridade | Apresentar e refletir | Pitch e retrospectiva |
+**Alocação por etapa:** Descoberta 100; Ideação 50; Solução 50; Tecnologia 50; MVP 50; Arquitetura 50; Desenvolvimento e Testes 100; Pitch e Finalização 50 minutos.
 
-## Distribuição exata
-| Aula | Etapas | Tempo | Produto |
-|---|---|---:|---|
-| 1 | Descoberta 30 min + Ideação 20 min | 50 min | Croqui, problema, alternativas |
-| 2 | Solução 10 + Tecnologia 10 + MVP 10 + Arquitetura 20 | 50 min | Esboço, recursos, escopo e plano |
-| 3 | Desenvolvimento 25 + Pitch 25 | 50 min | Protótipo, teste, apresentação e reflexão |
-| **Total** | **8 etapas** | **150 min** | |
+## Matriz de correspondência documental
+| IPIT | Elementos reconhecidos na resenha PNLD 2018 | Adaptação proposta |
+|---|---|---|
+| Descoberta | “Para começo de conversa”, saberes prévios, cotidiano, lugar e paisagem | Mapas mentais, croqui e investigação |
+| Ideação | Discussão, problemas atuais, pesquisa e debate | Três ideias e matriz de priorização |
+| Solução | Atividades de síntese, imagens, mapas e interdisciplinaridade | Croqui antes/depois |
+| Tecnologia | “Cartografando”, mapas, atlas e sensoriamento remoto | Ferramentas analógicas/digitais com fontes |
+| MVP | Atividades práticas e estudo do meio | Protótipo mínimo verificável |
+| Arquitetura | Orientações de trabalho individual/em grupo | Backlog, funções e fluxos |
+| Desenvolvimento | Pesquisa, interação e produção interdisciplinar | Artefato e teste iterativo |
+| Pitch | Síntese, compreensão, debate e avaliação qualitativa | Apresentação e retrospectiva |
 
-Os roteiros temporizados são detalhados em [cronograma.md](cronograma.md) e na página [index.html](../index.html).
+## Metodologia e avaliação
+Aulas combinam perguntas disparadoras, leitura de imagens/mapas, prática colaborativa, orientação docente, produção de evidências e reflexão. Avaliação diagnóstica na aula 1; formativa em todas as aulas por fichas e checklist; síntese nas aulas 9 e 10 por teste, rubrica e reflexão. Critérios: evidências, conceitos e cartografia, viabilidade, colaboração, protótipo/testes e argumentação.
 
-## Avaliação e inclusão
-Diagnóstica (conhecimentos prévios), processual (observação e fichas) e formativa (rubrica e feedback). Instrumentos: fichas 01–08, diário, checklist, registro de testes e rubrica. Participação expressa por desenho, áudio ou escrita; materiais de alto contraste; legenda textual; papéis rotativos; possibilidade de croqui interno à escola.
-
-## Pré-requisitos e infraestrutura
-Não exige conhecimento prévio de software. Papel A3, canetas, quadro, computador/celular opcionais. Sem saída de campo não autorizada, coleta de dados sensíveis ou publicação de identificação de menores.
+## Infraestrutura, inclusão e ética
+Quadro, cartolina, lápis, canetas e atlas; laboratório, imagens digitais ou internet somente como opção. Permitir respostas por fala/áudio, desenho ou texto; alto contraste, símbolos com legenda, funções rotativas e fontes acessíveis. Não publicar nomes, fotografias identificáveis, endereços ou relatos pessoais de estudantes. Estudos externos requerem autorização e supervisão; alternativas seguras incluem observação interna e memória do trajeto, sempre distinguida de evidência direta.
 
 ## Referências
-BRASIL. Ministério da Educação. *PNLD 2018: Geografia — Guia de livros didáticos, Ensino Médio*. Brasília, 2017, pp. 50–54.
-MARTINS, Dadá; BIGOTTO, Francisco; VITIELLO, Márcio. *Geografia no Cotidiano*. Base Editorial, 2016. Obra descrita no Guia.
-PEREIRA, Sandra Maria. *IPIT — Ideathon Pedagógico de Inovação Tecnológica*. https://github.com/smp-sandramariapereira/IPIT_origin
+BRASIL. Ministério da Educação. *PNLD 2018: Geografia — Guia de livros didáticos, Ensino Médio*. Brasília: MEC, 2017, pp. 50–54.  
+MARTINS, Dadá; BIGOTTO, Francisco; VITIELLO, Márcio. *Geografia no Cotidiano*. Base Editorial, 2016 (obra resenhada no Guia).  
+PEREIRA, Sandra Maria. *IPIT — Ideathon Pedagógico de Inovação Tecnológica*. https://github.com/smp-sandramariapereira/IPIT_origin  
+Projeto de referência visual e funcional: https://github.com/smp-sandramariapereira/projeto-powerbi-ipit
+
+## Roteiros docentes
+Consultar [cronograma](cronograma.md) para o detalhamento minuto a minuto de cada encontro.
