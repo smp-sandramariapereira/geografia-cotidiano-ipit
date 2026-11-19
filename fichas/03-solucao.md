@@ -1,18 +1,48 @@
-# Ficha 3 — Solução
+# Ficha 03 — Solução
 
-**Aula:** 2 · **Tempo IPIT:** 10 minutos
+**Quando:** Aula 4 · **Carga horária da etapa:** 50 minutos · **Metodologia:** IPIT — Sandra Maria Pereira
 
-**Pergunta-guia:** Como representar o antes/depois e a experiência de quem usa o lugar?
+## Orientações ao professor
+**Conceitos:** Representação espacial, escala esquemática e comunicação visual.
 
-**Exemplo ilustrativo, não dado da turma:** um problema de mobilidade no entorno escolar representado por croqui; a equipe deverá validar suas próprias evidências.
+**Pergunta disparadora:** Como a solução seria percebida e utilizada?
 
-## Registro da equipe
+**Exemplo-modelo fictício:** Croqui antes/depois com símbolos e legenda.
 
-- Equipe / data: ______
-- Resposta à pergunta-guia: ______
-- Observações e evidências: ______
-- Decisões e justificativas: ______
-- Dúvidas, limites e cuidados éticos: ______
-- Produto ou arquivo gerado: ______
-- Feedback do professor: ______
-- [ ] Evidência conferida
+**Atividade:** Desenhar sequência de uso e representação da proposta.
+
+**Evidência e critério de conclusão:** Esboço explicativo.
+
+## Registro preenchível
+Equipe / data / aula: ____________________
+
+### Descrição da proposta
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Passos de uso
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+### Descrição do desenho ou link local
+
+> Orientação: documentar observações próprias, justificar decisões e separar fatos de hipóteses.
+
+____________________________________________________________
+
+
+## Acompanhamento docente
+- [ ] Entrega verificada e documentação adequada
+- [ ] Registro diferencia evidências de suposições
+- [ ] A equipe considera acessibilidade e privacidade
+- [ ] Houve devolutiva e oportunidade de revisão
+
+**Feedback do professor:** ______________________________________________
+
+**Próximo passo:** ______________________________________________________
+
+*Esta ficha oferece exemplos pedagógicos. Resultados, dados reais e notas devem ser preenchidos somente após a atividade.*
